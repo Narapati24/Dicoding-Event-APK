@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DicodingEvent</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="btn_link_text">Buka Event</string>
+    <string name="cover_event">cover event</string>
+    <string name="titles">Dicoding Event</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="searchbar_hint">Masukan kata</string>
+    <string name="added_favorite">Ditambahkan ke Favorite</string>
+    <string name="deleted_favorite">Dihapus dari Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+    <string name="quota_quantity">Sisa Quota Masuk: </string>
+</resources>
